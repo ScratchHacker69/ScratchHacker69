@@ -12,6 +12,9 @@
 - A White Hat Hacker Is A Hacker Who Is Given Permission To Hack Into A System
 - To Show The Security Flaws Of The System
 - So The Company Can Improve In That Area
+- So Therefore You Cannot Ban Me
+- I Would Get Permission
+- But The Scratch Team Never Sees Me
 
 <!---
 ScratchHacker69/ScratchHacker69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
